@@ -40,8 +40,8 @@ section#telefone {
     transform: translate(-50%, -50%);
     background-image: url(frame-iphone.png);
     background-repeat: no-repeat;
-    box-shadow: 100px 100px 300px rgb(0, 0, 0);
-border-radius: 60px;
+
+
 
 }
 
@@ -64,6 +64,7 @@ section#redes-sociais img {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.381);
     box-sizing: border-box;
     transition-duration: 0.5s;
+    
     
 }
 
